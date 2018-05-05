@@ -1,5 +1,5 @@
 # RichTextEditor
-###Features:
+### Features:
 * Bold
 * Italic
 * Underline
